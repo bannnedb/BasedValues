@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+#bannnedb.github.io/BasedValues/
+BasedValues is a simple test, it tells you how objectively based you are.
