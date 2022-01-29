@@ -120,8 +120,8 @@
         dist = 0
         dist += Math.pow(Math.abs(ideologies[i].stats.econ - equality), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.govt - liberty), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.dipl - peace), 1)
-        dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 3)
+        dist += Math.pow(Math.abs(ideologies[i].stats.dipl - peace), 1.75)
+        dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 2.5)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
