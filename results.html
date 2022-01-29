@@ -6,7 +6,7 @@
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
 <script>
-  version = "Test Edition #3 (20/1/22)" //Remember to update this before making changes to the test itself!
+  version = "Test Edition #1 (29/1/22)" //Remember to update this before making changes to the test itself!
 </script>
 </head>
 <script type="application/javascript"
@@ -121,7 +121,7 @@
         dist += Math.pow(Math.abs(ideologies[i].stats.econ - equality), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.govt - liberty), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.dipl - peace), 1)
-        dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 4)
+        dist += Math.pow(Math.abs(ideologies[i].stats.scty - progress), 3)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
