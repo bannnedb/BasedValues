@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "Government force is not universal bad.",
+        "question": "Government force is not always unjust.",
         "effect": {
             "econ": 0,
             "dipl": 0,
