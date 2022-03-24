@@ -495,15 +495,6 @@ questions = [
         }
     },
     {
-        "question": "Climate change is real.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 7
-        }
-    },
-    {
         "question": "The fundamental flaw of western societies is that their people have lost faith in God.",
         "effect": {
             "econ": 0,
