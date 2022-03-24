@@ -270,15 +270,6 @@ questions = [
         }
     },
     {
-        "question": "The right to own firearms should exist.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 5,
-            "scty": 0
-        }
-    },
-    {
         "question": "The NAP is an unworkable concept.",
         "effect": {
             "econ": 0,
@@ -342,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "Adultery should carry a death sentance.",
+        "question": "Adultery should carry a death sentence.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -591,6 +582,51 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 10
+        }
+    },
+    {
+        "question": "The Spanish Inquisition was justified.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Brutus was a terrible person.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Judas Iscariot was a terrible person.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "The fall of the Roman Empire was one of the worst things that ever happened.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Technological advance often causes cultural decline.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
         }
     },
     {
