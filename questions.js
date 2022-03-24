@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the market, the freer the people.",
+        "question": "Welfare policies are a waste of money.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "Governmental policies do not need to be justified to foreigners.",
+        "question": "American military intervention in this century has not made the world a better place.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,10 +171,10 @@ questions = [
         }
     },
     {
-        "question": "Foreigners are more trouble than they are worth.",
+        "question": "Racial/Ethnic diversity in a nation is a good thing.",
         "effect": {
             "econ": 0,
-            "dipl": -7,
+            "dipl": 7,
             "govt": 0,
             "scty": 0
         }
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "An ideal nation would avoid forming alliances.",
+        "question": "Arab immigration has made western nations worse places to live.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -207,10 +207,10 @@ questions = [
         }
     },
     {
-        "question": "International law is important.",
+        "question": "Russia is justified in invading Ukraine.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -225,10 +225,10 @@ questions = [
         }
     },
     {
-        "question": "It is very important to maintain foreign influence.",
+        "question": "It is very important to maintain a liberal/democratic world order.",
         "effect": {
             "econ": 0,
-            "dipl": 7,
+            "dipl": 12,
             "govt": 0,
             "scty": 0
         }
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "A police force is a necessary part of a functioning society.",
+        "question": "Law enforcement is a necessary part of a functioning society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -261,12 +261,12 @@ questions = [
         }
     },
     {
-        "question": "Mandatory IDs should be used to ensure public safety.",
+        "question": "Mandatory COVID vaccinations should be used to ensure public safety.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": -10,
-            "scty": 0
+            "scty": -10
         }
     },
     {
@@ -293,7 +293,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 20,
-            "scty": 0
+            "scty": 20
         }
     },
     {
